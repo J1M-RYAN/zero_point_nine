@@ -1,5 +1,4 @@
 use std::env;
-use std::fmt::format;
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
 use tokio::net::TcpStream;
 
