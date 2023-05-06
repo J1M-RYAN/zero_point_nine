@@ -6,7 +6,7 @@ A cli that allows you to send HTTP/0.9 requests.
 
 ```bash
 git clone https://github.com/J1M-RYAN/zero_point_nine.git
-cd zero-point-nine
+cd zero_point_nine
 cargo install --path .
 ```
 
