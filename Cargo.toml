@@ -1,7 +1,11 @@
 [package]
 name = "zero_point_nine"
 version = "0.1.0"
+authors = ["Jim Ryan <mail@jimryan.ie>"]
+description = "A CLI which allows you to send HTTP/0.9 requests"
 edition = "2021"
+readme = "README.md"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
